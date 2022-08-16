@@ -2040,11 +2040,12 @@ a {
   color: #a4b4cb;
 }
 .cid-teFWN4IF7V .price-wrapper {
+  font-size: 16px;
   position: absolute;
   right: 8%;
   bottom: 75%;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
